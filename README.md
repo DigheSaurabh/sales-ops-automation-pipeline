@@ -1,3 +1,4 @@
+<img width="351" height="140" alt="Screenshot 2026-09-14 142638" src="https://github.com/user-attachments/assets/14253f80-2c50-480c-912a-806be48fe5cd" />
 <img src="docs/images/banner.svg" width="100%" alt="Sales Operations Automation Pipeline">
 
 <p align="center">
